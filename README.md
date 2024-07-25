@@ -11,7 +11,7 @@
 I'm a dynamic and results-driven C#, ASP.NET Core software engineer with over four years of experience in full-stack development. I specialize in crafting innovative software solutions from inception to deployment, and I have a proven track record of delivering measurable results through collaboration and technical expertise.
 
 ## 🔧 Technologies & Skills
-- **Languages:** C#, HTML, CSS, JavaScript
+- **Languages:** C#, TypeScript, JavaScript
 - **Frameworks & Libraries:** ASP.NET Core, React, TailwindCSS, Vue.js, Razor Pages, Blazor Web Assembly
 - **Database Management:** SQL Server, MySQL, PostgreSQL, MongoDB
 - **Tools:** Entity Framework Core, LINQ, Swagger UI, JWT Authentication
@@ -21,7 +21,6 @@ I'm a dynamic and results-driven C#, ASP.NET Core software engineer with over fo
 ## 📫 Get in Touch
 - **Email:** [weyinmi.e.madamedon@gmail.com](weyinmi.e.madamedon@gmail.com)
 - **LinkedIn:** [Weyinmi Madamedon](https://www.linkedin.com/in/weyinmi-madamedon)
-- **GitHub:** [github.com/weyinmi-dev](https://github.com/weyinmi-dev)
 
    <p align="left">
       <a href="https://github.com/weyinmi-dev?tab=followers">
