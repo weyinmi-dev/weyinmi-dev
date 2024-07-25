@@ -12,7 +12,7 @@ I'm a dynamic and results-driven C#, ASP.NET Core software engineer with over fo
 
 ## 🔧 Technologies & Skills
 - **Languages:** C#, TypeScript, JavaScript
-- **Frameworks & Libraries:** ASP.NET Core, React, TailwindCSS, Vue.js, Razor Pages, Blazor Web Assembly
+- **Frameworks & Libraries:** ASP.NET Core, React, Next.Js TailwindCSS, Razor Pages, Blazor Web Assembly
 - **Database Management:** SQL Server, MySQL, PostgreSQL, MongoDB
 - **Tools:** Entity Framework Core, LINQ, Swagger UI, JWT Authentication
 - **Development Practices:** Clean Code Architecture, Microservices, Agile Methodologies
