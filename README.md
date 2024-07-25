@@ -1,25 +1,33 @@
 
 
-[![MasterHead](https://drive.google.com/file/d/142ghAv40P4oebacZY_y3kLi1CIgk6O7D/view?usp=sharing)](https://linkedin.com/in/weyinmi-madamedon)
+![Weyinmi](https://drive.google.com/uc?export=view&id=142ghAv40P4oebacZY_y3kLi1CIgk6O7D)
 
 #
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Weyinmi+Madamedon!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Weyinmi+Madamedon!;+Welcome+to+my+GitHub+profile!;" />
 </h1>
 
 **`Software Engineer (Developer)`**
+I'm a dynamic and results-driven C#, ASP.NET Core software engineer with over four years of experience in full-stack development. I specialize in crafting innovative software solutions from inception to deployment, and I have a proven track record of delivering measurable results through collaboration and technical expertise.
 
-Software Engineer with 4+ years of experience with proficiency in building web applications using C# ASP.NET Framework, Entity Framework, SQL & NoSQL Databases, Docker and frontend technologies like React, Next.Js, Blazor and Tailwind CSS. 
+## 🔧 Technologies & Skills
+- **Languages:** C#, HTML, CSS, JavaScript
+- **Frameworks & Libraries:** ASP.NET Core, React, TailwindCSS, Vue.js, Razor Pages, Blazor Web Assembly
+- **Database Management:** SQL Server, MySQL, PostgreSQL, MongoDB
+- **Tools:** Entity Framework Core, LINQ, Swagger UI, JWT Authentication
+- **Development Practices:** Clean Code Architecture, Microservices, Agile Methodologies
+- **Soft Skills:** Collaborative Team Player, Analytical Problem Solver, Exceptional Communication Skills, Forward-Thinking Critical Reasoning
 
-I thrive in innovative and collaborative environments, aiming to contribute to projects that make a meaningful impact. I'm committed to writing clean, efficient, and scalable code, with a focus on quality and best practices. I posses strong communication skills to drive projects forward, exceeding expectations and collaborating effectively with cross-functional teams.
-
-If you want to get in touch, find me at 'madubugwuchieloka6@gmail.com'
+## 📫 Get in Touch
+- **Email:** [weyinmi.e.madamedon@gmail.com](weyinmi.e.madamedon@gmail.com)
+- **LinkedIn:** [Weyinmi Madamedon](https://www.linkedin.com/in/weyinmi-madamedon)
+- **GitHub:** [github.com/weyinmi-dev](https://github.com/weyinmi-dev)
 
    <p align="left">
       <a href="https://github.com/weyinmi-dev?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/chielokacode?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/weyinmi-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/weyinmi-dev?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/chielokacode?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/weyinmi-dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 ---
@@ -43,9 +51,6 @@ If you want to get in touch, find me at 'madubugwuchieloka6@gmail.com'
 
 <br />
 
-#
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>]
 
 #
 
