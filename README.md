@@ -1,6 +1,6 @@
 
 
-[![MasterHead](https://www.canva.com/design/DAGL-aksRtA/n7PuqbZqCV4cEt_iFiqBug/edit?utm_content=DAGL-aksRtA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://linkedin.com/in/weyinmi-madamedon)
+[![MasterHead](https://drive.google.com/file/d/142ghAv40P4oebacZY_y3kLi1CIgk6O7D/view?usp=sharing)](https://linkedin.com/in/weyinmi-madamedon)
 
 #
 <h1 align="center">
