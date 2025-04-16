@@ -8,11 +8,11 @@
 </h1>
 
 **`Software Engineer (Developer)`**
-I'm a dynamic and results-driven C#, ASP.NET Core software engineer with over four years of experience in full-stack development. I specialize in crafting innovative software solutions from inception to deployment, and I have a proven track record of delivering measurable results through collaboration and technical expertise.
+I'm a dynamic and results-driven C#, ASP.NET Core software engineer with over four years of experience in full-stack development. I also build Trade Algorithms and Expert Advisors using MQL4 and MQL5. I specialize in crafting innovative software solutions from inception to deployment, and I have a proven track record of delivering measurable results through collaboration and technical expertise.
 
 ## 🔧 Technologies & Skills
-- **Languages:** C#, TypeScript, JavaScript
-- **Frameworks & Libraries:** ASP.NET Core, React, Next.Js TailwindCSS, Razor Pages, Blazor Web Assembly
+- **Languages:** C#, TypeScript, JavaScript, MQL4, MQL5.
+- **Frameworks & Libraries:** ASP.NET Core, React, Next.Js, TailwindCSS, Razor Pages, Blazor Web Assembly
 - **Database Management:** SQL Server, MySQL, PostgreSQL, MongoDB
 - **Tools:** Entity Framework Core, LINQ, Swagger UI, JWT Authentication
 - **Development Practices:** Clean Code Architecture, Microservices, Agile Methodologies
