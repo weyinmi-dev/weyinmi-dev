@@ -8,7 +8,7 @@
 </h1>
 
 **`Software Engineer (Developer)`**
-I'm a dynamic and results-driven C#, ASP.NET Core software engineer with over four years of experience in full-stack development. I also build Trade Algorithms and Expert Advisors using MQL4 and MQL5. I specialize in crafting innovative software solutions from inception to deployment, and I have a proven track record of delivering measurable results through collaboration and technical expertise.
+I'm a dynamic and results-driven C#, ASP.NET Core software engineer with more than half a decade years of experience in full-stack development. I also build Trade Algorithms and Expert Advisors using MQL4 and MQL5. I specialize in crafting innovative software solutions from inception to deployment, and I have a proven track record of delivering measurable results through collaboration and technical expertise.
 
 ## 🔧 Technologies & Skills
 - **Languages:** C#, TypeScript, JavaScript, MQL4, MQL5.
