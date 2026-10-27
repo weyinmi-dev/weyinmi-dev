@@ -7,49 +7,83 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Weyinmi!;+Welcome+to+my+GitHub+profile!;" />
 </h1>
 
-**`Software Engineer (Developer)`**
-I'm a dynamic and results-driven C#, ASP.NET Core software engineer with more than half a decade of experience in full-stack development. I also build Trade Algorithms and Expert Advisors using MQL4 and MQL5. I specialize in crafting innovative software solutions from inception to deployment, and I have a proven track record of delivering measurable results through collaboration and technical expertise.
+**`Software Engineer | C#/.NET (Go, Python, Node.js) Backend & Full-Stack | AI Engineering`**
+# Hi, I'm Weyinmi Madamedon
 
-## 🔧 Technologies & Skills
-- **Languages:** C#, TypeScript, JavaScript, MQL4, MQL5.
-- **Frameworks & Libraries:** ASP.NET Core, React, Next.Js, TailwindCSS, Razor Pages, Blazor Web Assembly
-- **Database Management:** SQL Server, MySQL, PostgreSQL, MongoDB
-- **Tools:** Entity Framework Core, LINQ, Swagger UI, JWT Authentication
-- **Development Practices:** Clean Code Architecture, Microservices, Agile Methodologies
-- **Soft Skills:** Collaborative Team Player, Analytical Problem Solver, Exceptional Communication Skills, Forward-Thinking Critical Reasoning
+**Software Engineer | Backend & Full-Stack | AI Engineering**
 
-## 📫 Get in Touch
-- **Email:** [weyinmi.e.madamedon@gmail.com](weyinmi.e.madamedon@gmail.com)
-- **LinkedIn:** [Weyinmi Madamedon](https://www.linkedin.com/in/weyinmi-madamedon)
+I build dependable software, well-designed APIs, and practical AI-powered systems. My work spans backend architecture, full-stack product development, and applied AI.
 
-   <p align="left">
-      <a href="https://github.com/weyinmi-dev?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/weyinmi-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/weyinmi-dev?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/weyinmi-dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+[Portfolio](https://weyinmi-dev.github.io) · [LinkedIn](https://www.linkedin.com/in/weyinmi-madamedon) · [Email](mailto\:weyinmi.e.madamedon@gmail.com)
 
 ---
- ### ⚒️ Languages-Frameworks-Tools ⚒️
 
-<img align="left" alt="C# ASP.NET" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg"/>
-<img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/azure/azure-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Blazor" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/blazor/blazor-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Visual Studio" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/visualstudio/visualstudio-original.svg" />
-<img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" />
+## About Me
 
-<br />
+I'm a software engineer with almost a decade of experience building and improving applications across the backend and frontend. **C# and .NET are my core strengths**—from API design and business logic to data access, authentication, testing, and deployment.
 
+I care about more than getting code to work. I aim to build systems that are maintainable, testable, secure, and straightforward for other engineers to extend. I favour clear separation of concerns, layered architecture, well-defined API contracts, and reliable data management.
+
+I'm also exploring how to bring AI into real products through agentic workflows, retrieval-augmented generation (RAG), and Model Context Protocol (MCP)—with an emphasis on useful engineering outcomes rather than AI for its own sake.
+
+- 🧱 **Backend:** C#, .NET, ASP.NET Core, REST APIs, Entity Framework Core, Dapper, Go, Node.js, Python, Java
+- 🖥️ **Frontend:** React, Next.js, TypeScript, JavaScript, Blazor
+- 🗄️ **Data:** PostgreSQL, SQL Server, Redis
+- 🧪 **Engineering:** Automated testing, code reviews, refactoring, logging, CI/CD
+- 🐳 **Architecture & delivery:** Docker, .NET Aspire, Azure, layered architecture
+- 🤖 **Applied AI:** AI agents, RAG, MCP, Semantic Kernel, Microsoft Agent Framework
+- 📈 **Other interests:** Algorithmic trading and trading tools built with MQL4/MQL5
+
+## Selected Work
+
+### TelcoPilot — AI for Telecom Operations
+
+An AI-assisted telecom operations concept focused on making network and tower information easier to inspect, understand, and act on. The project explores operational data, alerts, dashboards, and AI-enabled workflows.
+
+**Recognition:** 2nd place at the Microsoft AI Skills Week Lagos AI4Telco Hackathon with Team IgniteCoders.
+
+### FundOS
+
+A software project exploring financial workflows and maintainable application architecture.
+
+[View FundOS on GitHub](https://github.com/weyinmi-dev/FundOS)
+
+### Enterprise Software Engineering
+
+I work on business applications where reliability and usability matter: API and database design, legacy-system refactoring, performance improvements, and end-to-end feature delivery in collaboration with engineering and product stakeholders.
+
+## Tech Stack
+
+<p>
+  <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=sharp&logoColor=white" />
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img alt="MQL4/MQL5" src="https://img.shields.io/badge/MQL4%20%2F%20MQL5-0B6E4F?style=flat-square" />
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+</p>
+
+## Beyond the Code
+
+My background in Mathematics shaped how I approach software: break complex problems into manageable parts, reason carefully about trade-offs, and look for solutions that hold up beyond the happy path.
+
+I enjoy learning new tools, exchanging ideas with a team, and taking ownership from problem definition through delivery.
+
+---
+
+<p align="center">
+  <a href="https://github.com/weyinmi-dev?tab=repositories">Explore my repositories</a> ·
+  <a href="https://weyinmi-dev.github.io">Visit my portfolio</a>
+</p>
 
 #
 
